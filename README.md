@@ -78,7 +78,7 @@ double (неявная) – результатом является копейк
 <img width="392" height="187" alt="image" src="https://github.com/user-attachments/assets/f735cd58-0623-4b74-ae36-fba023ba1bab" />
 <img width="425" height="207" alt="image" src="https://github.com/user-attachments/assets/55f40b95-e3fb-432d-bfc3-e4d44f2306c7" />
 <img width="516" height="453" alt="image" src="https://github.com/user-attachments/assets/e9f0405d-8bf5-417f-9635-69f2ef25fa42" />
-<img width="571" height="352" alt="image" src="https://github.com/user-attachments/assets/6f0e2aa4-3f80-4712-9dac-8f4edd9cf678" />
+<img width="628" height="357" alt="image" src="https://github.com/user-attachments/assets/33708056-bde1-4861-8775-5af59b4db6a8" />
 <img width="655" height="353" alt="image" src="https://github.com/user-attachments/assets/7370a169-51b3-4da5-81b5-0950d46ad6d3" />
 <img width="706" height="360" alt="image" src="https://github.com/user-attachments/assets/9e1d0175-31c9-4dcd-9b6e-e8f6e9e392e9" />
 <img width="623" height="282" alt="image" src="https://github.com/user-attachments/assets/c88c3881-1414-4039-a12b-2b8d25a717c6" />
